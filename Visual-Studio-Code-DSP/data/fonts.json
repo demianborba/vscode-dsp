@@ -1,0 +1,766 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Demian Borba",
+  "last_updated": "2020-10-19T05:17:38.439Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "23206979-70f6-4d2b-a712-fe3d9a6e4d0b",
+      "name": "MD P - SF Pro Text — 14pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "21374143-dbf4-4e09-9da2-90049fea1d42",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "23206979-70f6-4d2b-a712-fe3d9a6e4d0b",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "23206979-70f6-4d2b-a712-fe3d9a6e4d0b",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "23206979-70f6-4d2b-a712-fe3d9a6e4d0b",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "652d6a65-47d7-4fdd-879b-4c7536ca2d09",
+      "name": "MD C - Menlo — 14pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "ced0fbe7-dff9-4c0f-856b-7f2a0f44d022",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "652d6a65-47d7-4fdd-879b-4c7536ca2d09",
+          "type": "custom",
+          "value": "Menlo",
+          "key": "family"
+        },
+        {
+          "id": "652d6a65-47d7-4fdd-879b-4c7536ca2d09",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "652d6a65-47d7-4fdd-879b-4c7536ca2d09",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "8ee25fcd-dad5-4895-8c95-f7157cbdc5f1",
+      "name": "MD H5/H6 - SF Pro Text — 16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "42bdd8b5-9bc5-4dc1-91d6-c27c26856e2e",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "8ee25fcd-dad5-4895-8c95-f7157cbdc5f1",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "8ee25fcd-dad5-4895-8c95-f7157cbdc5f1",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "8ee25fcd-dad5-4895-8c95-f7157cbdc5f1",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "8839fbed-e629-44cc-bc83-8f476411b6f2",
+      "name": "MD H4 - SF Pro Text — 20pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "9302b292-a24c-4a08-934d-50534105b9fb",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "8839fbed-e629-44cc-bc83-8f476411b6f2",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "8839fbed-e629-44cc-bc83-8f476411b6f2",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "8839fbed-e629-44cc-bc83-8f476411b6f2",
+          "type": "size",
+          "value": "20",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "891eaab3-1106-42e4-bcdf-796a30652897",
+      "name": "MD H3 - SF Pro Text — 24pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "10cf2ada-8fee-4e56-a3dc-219d378c0cd0",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "891eaab3-1106-42e4-bcdf-796a30652897",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "891eaab3-1106-42e4-bcdf-796a30652897",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "891eaab3-1106-42e4-bcdf-796a30652897",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1b331c45-29a3-4115-a10b-090222c26386",
+      "name": "MD H2 - SF Pro Text — 28pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "47664d8c-d163-4e17-892b-fe7f91a61d20",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "1b331c45-29a3-4115-a10b-090222c26386",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "1b331c45-29a3-4115-a10b-090222c26386",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "1b331c45-29a3-4115-a10b-090222c26386",
+          "type": "size",
+          "value": "28",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ecd5a104-0f59-4bd8-841d-4914a91beac8",
+      "name": "MD H1 - SF Pro Text — 32pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "adbafa52-3968-49fa-ab52-9bfdcff9bce0",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ecd5a104-0f59-4bd8-841d-4914a91beac8",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "ecd5a104-0f59-4bd8-841d-4914a91beac8",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "ecd5a104-0f59-4bd8-841d-4914a91beac8",
+          "type": "size",
+          "value": "32",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "9d8e73c2-1c23-423b-b605-77bfe2efd63d",
+      "name": "seti — 16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "eacab073-6f04-4555-8f69-498156e7497f",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "9d8e73c2-1c23-423b-b605-77bfe2efd63d",
+          "type": "custom",
+          "value": "seti",
+          "key": "family"
+        },
+        {
+          "id": "9d8e73c2-1c23-423b-b605-77bfe2efd63d",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "9d8e73c2-1c23-423b-b605-77bfe2efd63d",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "aecb03cd-2300-4ad3-9286-1052ffad8c3e",
+      "name": "C2 - Menlo — 12pt Bold",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "2a1d0b13-9f2a-43b3-ac59-28169a911868",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "aecb03cd-2300-4ad3-9286-1052ffad8c3e",
+          "type": "custom",
+          "value": "Menlo",
+          "key": "family"
+        },
+        {
+          "id": "aecb03cd-2300-4ad3-9286-1052ffad8c3e",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "aecb03cd-2300-4ad3-9286-1052ffad8c3e",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "b4903a17-a0e0-4a9e-a1b6-4c9eb8e97e95",
+      "name": "codicon — 16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "dc12cef7-4cae-41fb-b971-1df0016eea0b",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "b4903a17-a0e0-4a9e-a1b6-4c9eb8e97e95",
+          "type": "custom",
+          "value": "codicon",
+          "key": "family"
+        },
+        {
+          "id": "b4903a17-a0e0-4a9e-a1b6-4c9eb8e97e95",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "b4903a17-a0e0-4a9e-a1b6-4c9eb8e97e95",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "271ba7b6-803f-47bf-9da5-41f9a8cf75ab",
+      "name": "C1 - Menlo — 12pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "8dbc6cc4-ae9e-4b37-9e6d-261cb1c8dc73",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "271ba7b6-803f-47bf-9da5-41f9a8cf75ab",
+          "type": "custom",
+          "value": "Menlo",
+          "key": "family"
+        },
+        {
+          "id": "271ba7b6-803f-47bf-9da5-41f9a8cf75ab",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "271ba7b6-803f-47bf-9da5-41f9a8cf75ab",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "af796395-0ba9-487c-884f-ef6ef4d3115c",
+      "name": "L4 - SF Pro Text — 9pt Bold",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "d57bab50-abdc-4fb0-a9a5-4854df00f88b",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "af796395-0ba9-487c-884f-ef6ef4d3115c",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "af796395-0ba9-487c-884f-ef6ef4d3115c",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "af796395-0ba9-487c-884f-ef6ef4d3115c",
+          "type": "size",
+          "value": "9",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c07525ca-a46e-4b09-bfef-09960e26a9b7",
+      "name": "L3 - SF Pro Text — 11pt Medium",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "a2c67278-42ed-4d46-bbc9-69c3616f0c35",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c07525ca-a46e-4b09-bfef-09960e26a9b7",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "c07525ca-a46e-4b09-bfef-09960e26a9b7",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "c07525ca-a46e-4b09-bfef-09960e26a9b7",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "2fb9cfc9-3078-489c-a42e-b5e223fc9ace",
+      "name": "L2 - SF Pro Text — 12pt Bold",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "7e28ea2a-7baa-4fc3-8a4b-fd4cb2fab3d6",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "2fb9cfc9-3078-489c-a42e-b5e223fc9ace",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "2fb9cfc9-3078-489c-a42e-b5e223fc9ace",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "2fb9cfc9-3078-489c-a42e-b5e223fc9ace",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c4e92e98-31c0-458b-a0eb-be374dedff85",
+      "name": "L1 - SF Pro Text — 14pt Medium",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "b8db10c3-9409-4bbf-8a50-b546b3af4120",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c4e92e98-31c0-458b-a0eb-be374dedff85",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "c4e92e98-31c0-458b-a0eb-be374dedff85",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "c4e92e98-31c0-458b-a0eb-be374dedff85",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "4c14ca5a-f27f-45d3-82c9-481ecc045cff",
+      "name": "H1 - SF Pro Text — 26pt Medium",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "2086e98c-a478-48f6-9e01-93b56f227b74",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "4c14ca5a-f27f-45d3-82c9-481ecc045cff",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "4c14ca5a-f27f-45d3-82c9-481ecc045cff",
+          "type": "custom",
+          "value": "Semibold",
+          "key": "weight"
+        },
+        {
+          "id": "4c14ca5a-f27f-45d3-82c9-481ecc045cff",
+          "type": "size",
+          "value": "26",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "a0703d4f-7427-4e69-a996-de54fc7a188a",
+      "name": "H5 - SF Pro Text — 11pt Medium Uppercase",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "26bc277d-8551-475e-9cf5-31ad7b03d94e",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "a0703d4f-7427-4e69-a996-de54fc7a188a",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "a0703d4f-7427-4e69-a996-de54fc7a188a",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "a0703d4f-7427-4e69-a996-de54fc7a188a",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "54a9d13e-a93f-487f-9f6b-3135ce3c48a1",
+      "name": "B2 - SF Pro Text — 12pt Medium",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "b82dddd0-fded-4b83-b361-49ca773ca872",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "54a9d13e-a93f-487f-9f6b-3135ce3c48a1",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "54a9d13e-a93f-487f-9f6b-3135ce3c48a1",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "54a9d13e-a93f-487f-9f6b-3135ce3c48a1",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "34c133b5-f9ed-4e2e-ac12-3cfe6b9b3069",
+      "name": "B1 - SF Pro Text — 13pt Medium",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "b987ae5c-ac0f-495a-a876-22122b52535d",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "34c133b5-f9ed-4e2e-ac12-3cfe6b9b3069",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "34c133b5-f9ed-4e2e-ac12-3cfe6b9b3069",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "34c133b5-f9ed-4e2e-ac12-3cfe6b9b3069",
+          "type": "size",
+          "value": "13",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d4b862fc-8c6e-4475-9c0c-98ce1bf45cc4",
+      "name": "H6 - SF Pro Text — 11pt Heavy",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "d3100418-4931-421a-81e2-666288eaca3c",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d4b862fc-8c6e-4475-9c0c-98ce1bf45cc4",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "d4b862fc-8c6e-4475-9c0c-98ce1bf45cc4",
+          "type": "custom",
+          "value": "Heavy",
+          "key": "weight"
+        },
+        {
+          "id": "d4b862fc-8c6e-4475-9c0c-98ce1bf45cc4",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "b20f53c2-6f76-44fc-ac05-d66a71cdf21d",
+      "name": "H4 - SF Pro Text — 11pt Bold Uppercase",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "8cbd2d94-7419-4294-be67-3e883f2ae503",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "b20f53c2-6f76-44fc-ac05-d66a71cdf21d",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "b20f53c2-6f76-44fc-ac05-d66a71cdf21d",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "b20f53c2-6f76-44fc-ac05-d66a71cdf21d",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d1a997e5-460c-4e2a-a8d5-dd4b3b44395b",
+      "name": "H3 - SF Pro Text — 13pt Heavy",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "22fc2dbc-8660-4ea9-b031-d0ed7786d37f",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d1a997e5-460c-4e2a-a8d5-dd4b3b44395b",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "d1a997e5-460c-4e2a-a8d5-dd4b3b44395b",
+          "type": "custom",
+          "value": "Heavy",
+          "key": "weight"
+        },
+        {
+          "id": "d1a997e5-460c-4e2a-a8d5-dd4b3b44395b",
+          "type": "size",
+          "value": "13",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "6f7e516a-079d-4c1e-81f9-5429a644d7d7",
+      "name": "H2 - SF Pro Text — 16pt Medium",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "783807a9-ec5d-4b6f-b72d-265df5df0cc8",
+        "last_sync": "2020-10-19T05:17:38.438Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "6f7e516a-079d-4c1e-81f9-5429a644d7d7",
+          "type": "custom",
+          "value": "SF Pro Text",
+          "key": "family"
+        },
+        {
+          "id": "6f7e516a-079d-4c1e-81f9-5429a644d7d7",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "6f7e516a-079d-4c1e-81f9-5429a644d7d7",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

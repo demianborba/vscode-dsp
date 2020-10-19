@@ -1,0 +1,205 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Demian Borba",
+  "last_updated": "2020-10-19T05:17:38.439Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "73760080-aeb7-4a93-82b1-b31c29802b23",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Button/Primary/Default",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "51322d8c-1b0d-46cf-bf55-0cdc611733a3",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "6e428445-7b9b-4e4c-bc84-dca31982659e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Button/Primary/Secondary",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "138ebda7-6141-46e0-a7d9-3ab4f940e028",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "eb98171c-5f81-4123-9c43-d86eea26f594",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Checkbox",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "d67f64bf-fae8-4e62-9c6b-da1331d08f69",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "59d12eac-62f1-47da-8c21-5d0525e43886",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Checkbox + Label",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "e689d0ae-fe5a-44ff-bd05-4daf5c58397e",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "721c8b54-d101-4e9a-9240-d909c605dd37",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Dropdown",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "5051fc7e-15ba-456b-9eff-059ae1993401",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "025e2422-6499-4188-be58-bc917e986e43",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Icon/Adobe XD",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "2d877d24-353e-4222-afe2-ba713bb42b4e",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "45e41e27-b9eb-4ae0-98ba-31204d3836b0",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "icon/alert",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "1c1bc7a7-c5ed-4530-87f0-ddb4b2c54e5d",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "526a788a-6111-460c-8a76-1aca2bf4823e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "icon/error",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "c8a5de34-a6c8-4bfd-9bc4-71e4dd82da77",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "3544f9c1-16af-41bc-b344-ba1431a80520",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "icon/warning",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "d353b297-12a2-46e1-8825-2192c9026117",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "b75736ae-b5fa-44f0-897e-490cf77af2e4",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "TextField/Default",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "3a1cc207-1e15-478d-8df9-8c2c02ff7920",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "2ef286fd-885f-4178-9182-6fe4cdee3c91",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "xd_DSP_128",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6a150a9a-c589-4a7b-6d07-dc5546b1abcc",
+        "id": "cdb8a636-3742-4f82-acda-86d162e3fbe2",
+        "last_sync": "2020-10-19T05:17:38.437Z",
+        "sync": true
+      }
+    }
+  ]
+}

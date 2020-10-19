@@ -1,0 +1,6 @@
+<svg id="Dropdown" xmlns="http://www.w3.org/2000/svg" width="159" height="26" viewBox="0 0 159 26">
+  <rect id="Background" width="159" height="26" fill="#1e1e1e"/>
+  <rect id="Base14" width="159" height="26" fill="rgba(212,212,212,0.16)"/>
+  <text id="Select_Placeholder" data-name="Select Placeholder" transform="translate(5 17)" fill="rgba(212,212,212,0.96)" font-size="11" font-family="SFProText-Medium, SF Pro Text" font-weight="500"><tspan x="0" y="0">Select Placeholder</tspan></text>
+  <text id="Icon_Codicon" data-name="Icon/Codicon" transform="translate(139 5)" fill="#d4d4d4" font-size="16" font-family="codicon" letter-spacing="0.95em"><tspan x="0" y="16"></tspan></text>
+</svg>
